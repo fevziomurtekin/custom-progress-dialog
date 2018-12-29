@@ -102,23 +102,23 @@ With various dialogs you will make the definition of beautiful transition screen
 # Usage
 
 ```Gradle
-allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+   allprojects {
+       repositories {
+	    ...
+	    maven { url 'https://jitpack.io' }
+	   }
 	}
   
   .....
 
-  dependencies {
-	        implementation 'com.github.fevziomurtekin:lockscreen:0.1.1'
+    dependencies {
+	  implementation 'com.github.fevziomurtekin:custom-progress-dialog:0.1.0'
 	  }
 	}
   ```
   </br> Include in the activity 
   ```Gradle 
- class MainActivity : AppCompatActivity() {
+    class MainActivity : AppCompatActivity() {
 
     private lateinit var progressbar : Dialog
 
@@ -131,6 +131,16 @@ allprojects {
         progressbar.show()
     }
 }
+  ```
+  
+  </br> Include in XML
+  ```Gradle 
+   <com.fevziomurtekin.customprogress.Dialog
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/progress"
+            customprogress:durationTime="50"
+            />
   ```
   
   # Attributes
