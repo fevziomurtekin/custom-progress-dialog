@@ -33,7 +33,7 @@ With various dialogs you will make the definition of beautiful transition screen
       <center><img src="https://media.giphy.com/media/byzdz3B4YkFiPMFH0G/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="/art/heart.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/5z2jQftmsOkLLtBGXT/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
      <center><img src="/art/ball.gif" width="250" height="350" /></center>
@@ -68,7 +68,7 @@ With various dialogs you will make the definition of beautiful transition screen
      <center><img src="https://media.giphy.com/media/fQYu6VsRYHuSOMMAve/giphy.gif width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="/art/ripple.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/QObPYn0Du3hMhmcOPt/giphy.gif" width="250" height="350" /></center>
     </td>
   </tr>
    <tr>
@@ -92,7 +92,7 @@ With various dialogs you will make the definition of beautiful transition screen
   </tr>
   <tr>
     <td>
-     <center><img src="/art/wedges.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/3Mb1HDPER07qDGciQv/giphy.gif" width="250" height="350" /></center>
     </td>
   </tr>
 
