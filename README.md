@@ -30,7 +30,7 @@ With various dialogs you will make the definition of beautiful transition screen
   </tr>
   <tr>
     <td>
-      <center><img src="/art/infinity.gif" width="250" height="350" /></center>
+      <center><img src="https://media.giphy.com/media/byzdz3B4YkFiPMFH0G/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
      <center><img src="/art/heart.gif" width="250" height="350" /></center>
@@ -65,7 +65,7 @@ With various dialogs you will make the definition of beautiful transition screen
       <center><img src="/art/eclipse.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="/art/interwind.gif width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/fQYu6VsRYHuSOMMAve/giphy.gif width="250" height="350" /></center>
     </td>
     <td>
      <center><img src="/art/ripple.gif" width="250" height="350" /></center>
@@ -75,18 +75,22 @@ With various dialogs you will make the definition of beautiful transition screen
     <th>Pacman</th>
     <th>Spinner</th>
     <th>Triangle</th>
-    <th>Wedges</th>
   </tr>
   <tr>
     <td>
-      <center><img src="/art/pacman.gif" width="250" height="350" /></center>
+      <center><img src="https://media.giphy.com/media/AE7PZ9QPLXbnf5nv4U/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="/art/spinner.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/4H1pfgyYR8H2vkE49R/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="/art/triangle.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/fQYu6VsRYHuSOMMAve/giphy.gif" width="250" height="350" /></center>
     </td>
+  </tr>
+ <tr>
+    <th>Wedges</th>
+  </tr>
+  <tr>
     <td>
      <center><img src="/art/wedges.gif" width="250" height="350" /></center>
     </td>
