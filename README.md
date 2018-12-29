@@ -1,6 +1,6 @@
 # Custom Progress Dialog
 
-Custom progress dialog library written for Kotlin.
+Custom progress dialog library written with Kotlin.
 
 <h4>Types of Progress Bar</h4>
 
