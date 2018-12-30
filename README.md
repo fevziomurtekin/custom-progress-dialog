@@ -36,7 +36,7 @@ With various dialogs you will make the definition of beautiful transition screen
      <center><img src="https://media.giphy.com/media/5z2jQftmsOkLLtBGXT/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="/art/ball.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/1hnVJYlW4LC6ddBhBN/giphy.gif" width="250" height="350" /></center>
     </td>
   </tr>
    <tr>
@@ -46,13 +46,13 @@ With various dialogs you will make the definition of beautiful transition screen
   </tr>
   <tr>
     <td>
-      <center><img src="/art/bars.gif" width="250" height="350" /></center>
+      <center><img src="https://media.giphy.com/media/5UrVrEs3TfYbfJYZd4/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="/art/cube.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/5QQpkzxmnGk48pYS2Z/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="/art/flickr.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/3eSxWMmwM5Zh1xCBw0/giphy.gif" width="250" height="350" /></center>
     </td>
   </tr>
    <tr>
@@ -62,7 +62,7 @@ With various dialogs you will make the definition of beautiful transition screen
   </tr>
   <tr>
     <td>
-      <center><img src="/art/eclipse.gif" width="250" height="350" /></center>
+      <center><img src="https://media.giphy.com/media/uiC1y1NCR3cDNjjzw7/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
      <center><img src="https://media.giphy.com/media/fQYu6VsRYHuSOMMAve/giphy.gif width="250" height="350" /></center>
@@ -84,7 +84,7 @@ With various dialogs you will make the definition of beautiful transition screen
      <center><img src="https://media.giphy.com/media/4H1pfgyYR8H2vkE49R/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="https://media.giphy.com/media/fQYu6VsRYHuSOMMAve/giphy.gif" width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/YTX7BNpDs0CHm9WiT3/giphy.gif" width="250" height="350" /></center>
     </td>
   </tr>
  <tr>
