@@ -154,9 +154,9 @@ With various dialogs you will make the definition of beautiful transition screen
 
 ## License
 
-    	MIT License
+    MIT License
 
-    	Copyright (c) 2018 Fevzi Ömür Tekin
+    Copyright (c) 2018 Fevzi Ömür Tekin
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
