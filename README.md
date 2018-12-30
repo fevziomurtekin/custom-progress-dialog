@@ -134,7 +134,10 @@ With various dialogs you will make the definition of beautiful transition screen
 }
   ```
   
+  **Note:** You can hide or show the progress dialog with gone() and show() methods.
+  
   <h4> Include in XML </h4>
+  
   ```Gradle 
    <com.fevziomurtekin.customprogress.Dialog
             android:layout_width="60dp"
