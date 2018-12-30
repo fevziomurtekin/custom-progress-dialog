@@ -65,7 +65,7 @@ With various dialogs you will make the definition of beautiful transition screen
       <center><img src="https://media.giphy.com/media/uiC1y1NCR3cDNjjzw7/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="https://media.giphy.com/media/edTCgPXwJo0DI33Zql/giphy.gif width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/edTCgPXwJo0DI33Zql/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
      <center><img src="https://media.giphy.com/media/QObPYn0Du3hMhmcOPt/giphy.gif" width="250" height="350" /></center>
