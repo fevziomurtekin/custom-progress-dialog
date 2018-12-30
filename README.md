@@ -65,7 +65,7 @@ With various dialogs you will make the definition of beautiful transition screen
       <center><img src="https://media.giphy.com/media/uiC1y1NCR3cDNjjzw7/giphy.gif" width="250" height="350" /></center>
     </td>
     <td>
-     <center><img src="https://media.giphy.com/media/fQYu6VsRYHuSOMMAve/giphy.gif width="250" height="350" /></center>
+     <center><img src="https://media.giphy.com/media/edTCgPXwJo0DI33Zql/giphy.gif width="250" height="350" /></center>
     </td>
     <td>
      <center><img src="https://media.giphy.com/media/QObPYn0Du3hMhmcOPt/giphy.gif" width="250" height="350" /></center>
@@ -116,7 +116,8 @@ With various dialogs you will make the definition of beautiful transition screen
 	  }
 	}
   ```
-  </br> Include in the activity 
+  <h4>Include in the activity </h4>
+  
   ```Gradle 
     class MainActivity : AppCompatActivity() {
 
@@ -133,7 +134,7 @@ With various dialogs you will make the definition of beautiful transition screen
 }
   ```
   
-  </br> Include in XML
+  <h4> Include in XML </h4>
   ```Gradle 
    <com.fevziomurtekin.customprogress.Dialog
             android:layout_width="60dp"
