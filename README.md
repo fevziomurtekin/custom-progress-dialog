@@ -1,5 +1,8 @@
 # Custom Progress Dialog
 
+[![](https://jitpack.io/v/fevziomurtekin/custom-progress-dialog.svg)](https://jitpack.io/#fevziomurtekin/custom-progress-dialog)
+
+
 Custom progress dialog library written in Kotlin.
 
 <h4>Types of Progress Bar</h4>
