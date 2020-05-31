@@ -1,5 +1,6 @@
 # Custom Progress Dialog
 
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Custom%20Progress%20Dialog-green.svg?style=flat )]( https://android-arsenal.com/details/1/8075 )
 [![](https://jitpack.io/v/fevziomurtekin/custom-progress-dialog.svg)](https://jitpack.io/#fevziomurtekin/custom-progress-dialog)
 
 
